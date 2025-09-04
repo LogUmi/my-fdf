@@ -121,7 +121,7 @@ Other screen outputs:
 <img height="750" src="./img/fdf2.png"/>
 
 You can move, zoom and rotate the wireframe toard every axis:
-<img height="575" src="./img/fdf3.png"/>
+<img height="750" src="./img/fdf3.png"/>
 
 <img height="750" src="./img/fdf6.png"/>
 
