@@ -1,6 +1,6 @@
 <div align="center">
   <h1>My fdf – Wireframe Renderer</h1>
-  <img src="./img/fdf.png" />
+  <img src="./img/my-fdf.png" />
   <br>
 </div>
 
